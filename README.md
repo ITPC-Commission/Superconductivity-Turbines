@@ -3,8 +3,8 @@
 > A new form of energy, inexhaustible, truly ecological, to save millions of trees from being used for "energy purposes" (biomass)
 
 <br>
-![immagine](https://user-images.githubusercontent.com/746559/201226360-8c84069a-42c9-4059-9ad7-991e789b2a8d.png)
 
+<img src="https://user-images.githubusercontent.com/746559/201226360-8c84069a-42c9-4059-9ad7-991e789b2a8d.png" align="right" />
 Superconductors are non-traditional metallic materials (ie suitably added with compounds such as to allow them to develop specific characteristics) and which possess the property of not opposing resistance to the passage of current.
 
 Apart from the very considerable savings in terms of thermal energy dispersion (the so-called Joule effect), the Superconductors are able to transport large quantities of electrical energy over reduced cable sections, which circulate there without ever reducing its current, measured in Amperes. (A) even low potential differences, measured in Volts (V).
