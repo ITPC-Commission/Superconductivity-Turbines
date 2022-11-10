@@ -5,6 +5,7 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/746559/201226360-8c84069a-42c9-4059-9ad7-991e789b2a8d.png" align="right" />
 I Superconduttori sono materiali metallici non tradizionali (cioè opportunamente addizionati di composti tali da permetterne di sviluppare caratteristiche specifiche) e che posseggono la proprietà di non opporre resistenza al passaggio di corrente.
 
 A parte il risparmio notevolissimo in termini di dispersione termica dell'energia (il cosiddetto effetto Joule), i Superconduttori riescono a trasportare su sezioni di cavo ridotte, ingenti quantità di energia elettrica, che vi circola senza mai ridurre la propria corrente, misurata in Ampère (A) anche basse differenze di potenziale, misurate in Volt (V).
