@@ -5,6 +5,7 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/746559/201226360-8c84069a-42c9-4059-9ad7-991e789b2a8d.png" align="right" />
 Les supraconducteurs sont des matériaux métalliques non traditionnels (c'est-à-dire additionnés de manière appropriée de composés leur permettant de développer des caractéristiques spécifiques) et qui possèdent la propriété de ne pas opposer de résistance au passage du courant.
 
 Outre les économies très considérables en termes de dispersion d'énergie thermique (ce que l'on appelle l'effet Joule), les Supraconducteurs sont capables de transporter de grandes quantités d'énergie électrique sur des sections de câble réduites, qui y circulent sans jamais réduire son courant, mesuré en Ampères. (A) des différences de potentiel même faibles, mesurées en Volts (V).
