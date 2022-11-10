@@ -1,21 +1,19 @@
-# Le Turbine a Superconduttori
-### Superconductors Turbines  - Les Turbines à Superconducteurs
+# Superconducting Turbines
 
-> Una nuova forma di energia, inesauribile, veramente ecologica, per salvare milioni di alberi dall’utilizzo per "scopi energetici" (biomasse)
+> A new form of energy, inexhaustible, truly ecological, to save millions of trees from being used for "energy purposes" (biomass)
 
 <br>
-<br>
 
-I Superconduttori sono materiali metallici non tradizionali (cioè opportunamente addizionati di composti tali da permetterne di sviluppare caratteristiche specifiche) e che posseggono la proprietà di non opporre resistenza al passaggio di corrente.
+Superconductors are non-traditional metallic materials (ie suitably added with compounds such as to allow them to develop specific characteristics) and which possess the property of not opposing resistance to the passage of current.
 
-A parte il risparmio notevolissimo in termini di dispersione termica dell'energia (il cosiddetto effetto Joule), i Superconduttori riescono a trasportare su sezioni di cavo ridotte, ingenti quantità di energia elettrica, che vi circola senza mai ridurre la propria corrente, misurata in Ampère (A) anche basse differenze di potenziale, misurate in Volt (V).
+Apart from the very considerable savings in terms of thermal energy dispersion (the so-called Joule effect), the Superconductors are able to transport large quantities of electrical energy over reduced cable sections, which circulate there without ever reducing its current, measured in Amperes. (A) even low potential differences, measured in Volts (V).
 
-Il Superconduttore, cioè non sviluppa, o sviluppa in minima parte l'effetto resistivo, misurato il Ohm (Ω) grazie all'effetto delle cosiddette "coppie di Cooper", che creano percorsi di passaggio degli elettroni a zero resistività.
+The Superconductor, that is, it does not develop, or develops in a minimal part, the resistive effect, measured in Ohm (Ω) thanks to the effect of the so-called "Cooper pairs", which create paths for the passage of electrons with zero resistivity.
 
-Il loro limite è posto dalle temperature (molto basse) alle quali devono lavorare, sebbene le ultime ricerche, specialmente quelle per l'utilizzo nei super-computer, dimostrano che esistono superconduttori capaci di lavorare anche prossimi allo 0° Celsius.
+Their limit is set by the (very low) temperatures at which they have to work, although the latest research, especially those for use in super-computers, shows that there are superconductors capable of working even close to 0 ° Celsius.
 
-La Superconduttività, permettendo una passaggio immane di corrente anche a voltaggi relativamente bassi, determina la creazione di campi magnetici di elevata portata, che grazie alla Legge di Lenz, sono creati ortogonalmente rispetto al passaggio di corrente in un cavo.
+Superconductivity, allowing a huge passage of current even at relatively low voltages, determines the creation of magnetic fields of high capacity, which thanks to Lenz's Law, are created orthogonally with respect to the passage of current in a cable.
 
-Se poi il cavo é avvolto su se stesso (bobina) e forma perciò una elettrocalamita ed essa viene realizzata con materiale superconduttivo, parliamo di campi magnetici tali da poter produrre (se debitamente inseriti in un rotore, che ruota attorno ad uno statore) entrambi dotati delle suddette bobine a superconduttori, la produzione continua di energia pulita, su grande scala e senza dispersioni (ai regimi ottimali), autoalimenta e con un output misurabile da centinaia, se non migliaia di Kilowatt fino alle decine di Megawatt (a seconda dalle dimensioni della turbina, del suo carico energetico iniziale (DDP-Differenza Di Potenziale) di spunta e velocità di rotazione.
+Then, if the cable is wound on itself (coil) and therefore forms an electromagnet and it is made of superconductive material, we are talking about magnetic fields such as to be able to produce (if properly inserted in a rotor, which rotates around a stator) both equipped of the aforementioned superconducting coils, the continuous production of clean energy, on a large scale and without dispersion (at optimal regimes), self-feeds and with an output measurable from hundreds, if not thousands of Kilowatts up to tens of Megawatts (depending on the size of the turbine, its initial energy load (DDP-Difference Of Potential) of check and rotation speed.
 
-Lo schema di massima é il seguente di sotto riprodotto, di proprietà intellettuale dell'ITPC e CISRI ([International Tree Protection Commission](https://www.itpc-commission.org) – [Collaborative Intergovernmental Scientific Research Institute](http://www.cisri.org/)) e protetto dalla licenza internazionale Creative Commons Attribute [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+The general scheme is the following reproduced below, intellectual property of ITPC and CISRI ([International Tree Protection Commission] (https://www.itpc-commission.org) - [Collaborative Intergovernmental Scientific Research Institute] (http: //www.cisri.org/)) and protected by the international Creative Commons Attribute license [CC BY-SA 4.0] (https://creativecommons.org/licenses/by-sa/4.0/)
