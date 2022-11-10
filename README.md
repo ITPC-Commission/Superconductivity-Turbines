@@ -3,6 +3,7 @@
 > A new form of energy, inexhaustible, truly ecological, to save millions of trees from being used for "energy purposes" (biomass)
 
 <br>
+![immagine](https://user-images.githubusercontent.com/746559/201226360-8c84069a-42c9-4059-9ad7-991e789b2a8d.png)
 
 Superconductors are non-traditional metallic materials (ie suitably added with compounds such as to allow them to develop specific characteristics) and which possess the property of not opposing resistance to the passage of current.
 
