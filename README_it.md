@@ -10,7 +10,7 @@ I Superconduttori sono materiali metallici non tradizionali (cioè opportunament
 
 A parte il risparmio notevolissimo in termini di dispersione termica dell'energia (il cosiddetto effetto Joule), i Superconduttori riescono a trasportare su sezioni di cavo ridotte, ingenti quantità di energia elettrica, che vi circola senza mai ridurre la propria corrente, misurata in Ampère (A) anche basse differenze di potenziale, misurate in Volt (V).
 
-Il Superconduttore, cioè non sviluppa, o sviluppa in minima parte l'effetto resistivo, misurato il Ohm (Ω) grazie all'effetto delle cosiddette "coppie di Cooper", che creano percorsi di passaggio degli elettroni a zero resistività.
+In altre parole, il Superconduttore non sviluppa l'effetto resistivo, o lo sviluppa in minima parte, ed è misurato in Ohm (Ω), le sue capacità si devono grazie all'effetto delle cosiddette "coppie di Cooper", che creano percorsi di passaggio degli elettroni a zero resistività.
 
 Il loro limite è posto dalle temperature (molto basse) alle quali devono lavorare, sebbene le ultime ricerche, specialmente quelle per l'utilizzo nei super-computer, dimostrano che esistono superconduttori capaci di lavorare anche prossimi allo 0° Celsius.
 
